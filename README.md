@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aman-Kisan
 - 👀 I’m interested in Data Engineering
-- I have a good grasp on C, C++, Python, mySQL, HTML, CSS
-- Recent learnt skill: Web-Scraping using BeautifulSoup and Web-automation using Selenium in python
+- I have a good grasp on C, C++, Python, MySQL, HTML, CSS
+- Skills: Web-Scraping using BeautifulSoup, Web-automation using Selenium in python and Building APIs using Django.
 - 📫 How to reach me
   amankisan1@gmail.com
 <!---
