@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 --->
 [![](https://visitcount.itsvg.in/api?id=AK&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-[![LeetCode Stats](https://leetcode.card.workers.dev/?username=AK-2003&theme=dark)](https://leetcode.com/AK-2003/)
+![LeetCode Stats](https://leetcode.card.workers.dev/?username=AK-2003&v=1)
