@@ -12,6 +12,6 @@
 Aman-Kisan/Aman-Kisan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![](https://visitcount.itsvg.in/api?id=AK&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=AK-2003&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
-![LeetCode](https://github-readme-leetcode-card.vercel.app/api?username=AK-2003&theme=dark)
+![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/AK-2003?theme=dark&reputation=false&font=%27Open+Sans%27%2C+Arial%2C+Helvetica%2C+sans-serif&template=minimal)
