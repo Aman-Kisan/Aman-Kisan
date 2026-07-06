@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Aman-Kisan
-- 👀 I’m interested in Data Engineering
 - I have a good grasp on C, C++, Python, MySQL, HTML, CSS
 - Skills:
   - Web-Scraping using BeautifulSoup
